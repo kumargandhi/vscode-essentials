@@ -7,8 +7,28 @@ I myself am a web developer and I use the IDE every other day. And I thought, le
 
 `Note:` There are many articles / post, youtube videos about the VS code to get started and also to code as a pro. I am only documenting for my own purpose.
 
+---
 ### Keyboard shortcuts
 There is an excellent [atricle](https://betterprogramming.pub/20-vs-code-shortcuts-for-fast-coding-cheatsheet-10b0e72fd5d) about the 20 VS Code shortcuts for faster coding. Any developer loving the VS Code IDE should at-least know few of these shortcuts!!.
 
+---
 ### Extensions
+Below are the list of the extensions I currently use and they are awesome.
+
+- Auto Rename Tag
+- Better Comments
+- GitLens
+- JavaScript (ES6) code snippets
+- Add jsdoc comments
+- Atom One Dark Theme
+- Prettier - Code formatter
+- Remote repositories
+
+---
+### Inbuit features
+Below are few of the inbuilt features of the VSCode that you should use starting now.
+- Terminal
+- Git source control
+- Command palatte (Ctrl + p)
+---
 
