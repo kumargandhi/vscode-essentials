@@ -22,6 +22,8 @@ Below are the list of the extensions I currently use and they are awesome.
 - [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 - [Github repositories](https://marketplace.visualstudio.com/items?itemName=github.remotehub)
 - [Angular Language Service](https://marketplace.visualstudio.com/items?itemName=Angular.ng-template)
+- [Git Patch](https://marketplace.visualstudio.com/items?itemName=paragdiwan.gitpatch)
+- [Peacock](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock)
 
 ---
 ### Inbuit features
